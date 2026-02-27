@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cameraFragment"
+        android:title="Cámara"
+        android:icon="@android:drawable/ic_menu_camera"/>
+    <item
+        android:id="@+id/searchFragment"
+        android:title="Buscar"
+        android:icon="@android:drawable/ic_menu_search"/>
+
+    <item
+        android:id="@+id/historyFragment"
+        android:title="Historial"
+        android:icon="@android:drawable/ic_menu_recent_history"/>
+
+</menu>
