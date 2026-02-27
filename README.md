@@ -1,6 +1,6 @@
-Integrantes:
--Gregory Moran 
--Chuan Liao 
--Sixto González 
+# Integrantes:
+## -Gregory Moran 
+## -Chuan Liao 
+## -Sixto González 
 
 -
