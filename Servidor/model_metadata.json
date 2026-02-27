@@ -1,0 +1,31 @@
+{
+  "mejor_modelo": "Random Forest",
+  "accuracy": 0.9619,
+  "familias": [
+    "Agaricaceae",
+    "Boletaceae",
+    "Cortinariaceae",
+    "Polyporaceae",
+    "Tricholomataceae"
+  ],
+  "features": [
+    "spore_size_um",
+    "spore_shape",
+    "wall_type",
+    "ornamentation",
+    "gene_ITS",
+    "genetic_cluster",
+    "gc_content",
+    "habitat_type",
+    "elevation_m",
+    "mean_temp_c",
+    "pH",
+    "conductividad_ds_m",
+    "nitrogeno_total_pct",
+    "textura_Arcillosa",
+    "textura_Arenosa",
+    "textura_Franca",
+    "textura_Limosa"
+  ],
+  "n_features": 17
+}
