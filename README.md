@@ -1,6 +1,4 @@
 # Integrantes:
-## -Gregory Moran 
-## -Chuan Liao 
-## -Sixto González 
-
--
+## - Gregory Moran 
+## - Chuan Liao 
+## - Sixto González 
